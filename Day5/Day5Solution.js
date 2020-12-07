@@ -1,4 +1,3 @@
-const { pop } = require('./Day5Data.js');
 const boardingPasses = require('./Day5Data.js');
 
 const generateArray = function (maxVal) {
